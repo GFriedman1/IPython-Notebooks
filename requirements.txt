@@ -1,5 +1,2 @@
 Tkinter
-numpy
-scipy
 tkFileDialog
-matplotlib
